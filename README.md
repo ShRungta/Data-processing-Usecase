@@ -7,5 +7,6 @@ Below are the out puts that has been generated:
 
 I have used Faker library to create the dummy data.
 Please install the below libraries before running the code:
+
 •	pip install numpy
 •	pip install pandas
